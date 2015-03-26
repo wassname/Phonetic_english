@@ -1,0 +1,133 @@
+<html>
+<head>
+<title>PIE Options</title>
+<style>
+body {
+  font-family:helvetica, arial, sans-serif;
+  font-size:100%;
+  margin:10px;
+}
+
+span.ipa {
+  font-family: Lucida Grande, Lucida Sans Unicode, Arial Unicode MS, DejaVu Sans, Charis SIL, Gentium, Doulos SIL, sans-serif;
+  font-size:100%;
+}
+
+a:link, a:visited { color:rgb(6, 69, 173); }
+a:hover, a:active { color:#FF0000; }
+
+div.indent { margin-left: 20px; }
+
+div.text {
+  background-color: #e0e0e0;
+  padding:10px;
+}
+
+input, textarea, button {
+  font-family:helvetica, arial, sans-serif;
+  font-size:100%;
+}
+
+#header {
+  padding-bottom:1.5em;
+  padding-top:1.5em;
+}
+
+#header h1 {
+  font-size: 156%;
+  display:inline;
+  padding-bottom:43px;
+  padding-left:75px;
+  padding-top:40px;
+  background:url(pie_128.png) no-repeat;
+  background-size:67px;
+  background-position:1px 18px;
+}
+
+.section-header {
+  background:#ebeff9;
+  border-top:1px solid #b5c7de;
+  font-size:99%;
+  padding:3px 0 2px 5px;
+  font-weight:bold;
+  margin-bottom:1em;
+  margin-top:2em;
+}
+
+.section-header.first {
+  margin-top:1em;
+}
+
+#footer {
+  margin-top:2em;
+  margin-bottom:2em;
+}
+</style>
+</head>
+<body>
+
+<div id="header"><h1>PIE Options</h1></div>
+
+<div class="section-header first">About PIE (International)</div>
+<p><b>Phonetically Intuitive English, International Edition</b> is a Chrome extension that can automatically add diacritics to English words to make their pronunciation crystal clear, based on a one-page, easy-to-learn scheme (<a href="scheme/PIE_International_Chart.pdf" target="_blank">PDF version</a>, <a href="scheme/PIE_International_Chart.png" target="_blank">image version</a>). This International Edition is intended for people who learn English as a second language (ESL) to learn correct <b>pronunciation</b> (and pronunciation is also key to <b>spelling</b>); therefore the scheme mimics the International Phonetic Alphabet (IPA) which is familiar to most ESL learners around the world. We also provide an <b><a href="https://chrome.google.com/webstore/detail/pie-american/hlpncajbcabflblkdajhpogljllncdna" target="_blank">American Edition</a></b> for American children learning to read, which uses a slightly different scheme.</p>
+<p>People who learn English as a second language may want to know a word's <b>meaning</b> in addition to its pronunciation. To address this need, we also provide a free Chrome extension called <b><a href="https://chrome.google.com/webstore/detail/pie-friendly-translator/mdgdbmohcdjfbglkepkiaabaieenhhhc" target="_blank">Word Translator</a></b> that can translate the English word under the user's mouse to his native language. This Chrome extension can recognize English words already transformed to the PIE form, and therefore is a highly relevant companion for PIE (International).</p>
+<p><b>Quick Links:</b> <a href="quickstart.html" target="_blank">Quick Start Guide</a> | <a href="scheme/PIE_International_Chart.pdf" target="_blank">The PIE Scheme (International)</a> | <a href="https://sites.google.com/site/phoneticallyintuitiveenglish/" target="_blank">Our Official Website</a> | <a href="feedback.html" target="_blank">Media Coverage and Positive Feedback</a> | <a href="legal.html" target="_blank">Legal Notices</a></p>
+
+<div class="section-header">Text Transformation Options</div>
+<p>Depending on the learner's English level, PIE provides five modes:</p>
+<div class="indent">
+<p><label><input type="radio" name="mode" id="full-mode" /> <b>Full</b> - This shows pronunciation to the fullest extent (e.g. even the silent <b>g</b> and <b>h</b> as in "li<b>gh</b>t" are marked with a "silence mark").</label></p>
+<p><label><input type="radio" name="mode" id="less-full-mode" /> <b>Less Full</b> - This further omits diacritics for common digraphs like <b>ch</b>, <b>sh</b> and <b>ph</b> (e.g. "<b>ch</b>air").</label></p>
+<p><label><input type="radio" name="mode" id="medium-mode" /> <b>Medium</b> - This further omits or reduces diacritics for common words like <b>of</b>, common affixes like <b>-tion</b> and <a href="#" id="i-digraphs">"-i" digraphs</a> (e.g. "sol<b>di</b>er").</label></p>
+<div class="indent text" id="explain-idigraphs" style="display: none">
+<table border="0px" cellpadding="0px" cellspacing="0px">
+<tr><td colspan="2">The -i digraphs represent <span class="ipa">/&#643;/</span>, <span class="ipa">/t&#643;/</span>, <span class="ipa">/&#658;/</span> or <span class="ipa">/d&#658;/</span> before vowels:</td></tr>
+<tr><td colspan="2">&nbsp;</td></tr>
+<tr><td style="width:100px"><b>ci</b></td><td>as in "effi<b>ci</b>ent"</td></tr>
+<tr><td style="width:100px"><b>si</b></td><td>as in "controver<b>si</b>al"</td></tr>
+<tr><td style="width:100px"><b>ti</b></td><td>as in "pa<b>ti</b>ence"</td></tr>
+<tr><td style="width:100px"><b>di</b></td><td>as in "sol<b>di</b>er"</td></tr>
+<tr><td style="width:100px"><b>gi</b></td><td>as in "reli<b>gi</b>ous"</td></tr>
+<tr><td colspan="2">&nbsp;</td></tr>
+<tr><td colspan="2">When necessary, PIE shows these consonants on the first letter (<b>c</b>, <b>s</b>, <b>t</b>, <b>d</b> or <b>g</b>), and the second letter (<b>i</b>) becomes silent but its silence mark is omitted for simplicity.</td></tr>
+</table>
+</div>
+<p><label><input type="radio" name="mode" id="lite-mode" /> <b>Lite</b> (default) - This further omits the silence mark for the silent <b>e</b> in the middle of a word (e.g. "hous<b>e</b>hold").</label></p>
+<p><label><input type="radio" name="mode" id="extra-lite-mode" /> <b>Extra Lite</b> - This further omits most schwa marks (e.g. the second and third <b>a</b>'s in "Can<b>a</b>d<b>a</b>" will have no marks).</label></p>
+</div>
+
+<p>Native speakers usually speak function words in a "weak form". PIE's Full mode shows this form by default (except for "have" and "do", which are not always function words). Be aware that <a href="http://en.wikipedia.org/wiki/Weak_and_strong_forms_in_English#Weak_and_strong_forms_of_words" target="_blank">sometimes you must use the strong form</a>.</p>
+<div class="indent"><p><label><input type="radio" name="function-word-form" id="weak-form" /> Show weak form (except for "have" and "do")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label><label><input type="radio" name="function-word-form" id="strong-form" /> Show strong form (except for "a", "an" and "the")</label></p></div>
+<p>Some words have multiple pronunciations each indicating a different meaning (e.g. "present"). PIE can optionally show a small plus sign (e.g. "present&#8314;") to highlight such cases.</p>
+<div class="indent"><p><label><input type="checkbox" id="plus-sign" /> Show a small plus sign after words that have multiple pronunciations each indicating a different meaning (e.g. "present&#8314;")</label></p></div>
+<p>Some words contain a pair of characters that may be misinterpreted as a digraph (e.g. "ligh<b>th</b>ouse"). PIE can optionally show a small dot (e.g. "light&#183;house") to clarify such cases.</p>
+<div class="indent"><p><label><input type="checkbox" id="dot-sign" /> Show a small dot between a pair of characters that may be misinterpreted as a digraph (e.g. "light&#183;house")</label></p></div>
+
+<div class="section-header">Getting a Word's Meaning</div>
+<p>For people who learn English as a second language, PIE can show words' pronunciation but not meaning. To address this need, we also provide a free Chrome extension called <b><a href="https://chrome.google.com/webstore/detail/pie-friendly-translator/mdgdbmohcdjfbglkepkiaabaieenhhhc" target="_blank">Word Translator</a></b> that can translate the English word under the user's mouse to his native language. This Chrome extension can recognize English words already transformed to the PIE form, and therefore is a highly relevant companion for PIE (International).</p>
+
+<div class="section-header">Font for PIE Text</div>
+<p>By default, PIE uses <b>Cambria</b> for Windows Vista and higher, and <b>Cherry PIE</b> for Mac OS X, Linux and lower versions of Windows. If you want to specify your own font, we strongly recommend that you read our <a href="https://sites.google.com/site/phoneticallyintuitiveenglish/using-pie/fonts" target="_blank">list of recommended fonts that you can install and use with PIE</a>, because not all fonts are advanced enough to render PIE text correctly. As an extreme case, using Cambria with PIE in Mac OS X can even crash your tabs. So if anything goes wrong, switch back to the default option.</p>
+<div class="indent"><p><label><input type="radio" name="font-radio" id="default-fonts" /> Use default option (recommended) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label><label><input type="radio" name="font-radio" id="custom-fonts" /> Use my own font: <input type="text" id="font-seq" style="width: 400px; margin-left: 2px;"></label></p></div>
+
+<div class="section-header">Page Zooming</div>
+<p>To display PIE text more clearly, you can use two zoom features in Chrome:</p>
+<ul><li><b>To zoom the current site:</b>&nbsp;Hold down the <span style="background-color:rgb(204,204,204)">&nbsp;Ctrl&nbsp;</span>&nbsp;key (or <span style="background-color:rgb(204,204,204)">&nbsp;&#8984;&nbsp;</span> for Mac) and scroll your mouse wheel forward/backward to zoom in/out the current site. If you don't have a mouse, press <span style="background-color:rgb(204,204,204)">&nbsp;Ctrl&nbsp;</span> and <span style="background-color:rgb(204,204,204)">&nbsp;+&nbsp;</span> to zoom in, <span style="background-color:rgb(204,204,204)">&nbsp;Ctrl&nbsp;</span> and <span style="background-color:rgb(204,204,204)">&nbsp;-&nbsp;</span> to zoom out.</li>
+<li><b>To zoom all sites:</b>&nbsp;Go to the Chrome menu (&nbsp;<img border="0" src="menu.png" style="vertical-align:middle">&nbsp;) &gt; <span style="background-color:rgb(204,204,204)">&nbsp;Settings&nbsp;</span> &gt; <span style="background-color:rgb(204,204,204)">&nbsp;Show advanced settings...&nbsp;</span> &gt; <span style="background-color:rgb(204,204,204)">&nbsp;Web content&nbsp;</span> &gt; <span style="background-color:rgb(204,204,204)">&nbsp;Page zoom&nbsp;</span> and change this setting from <span style="background-color:rgb(204,204,204)">&nbsp;100%&nbsp;</span> to <span style="background-color:rgb(204,204,204)">&nbsp;125%&nbsp;</span> (or other zoom levels you like).</li></ul>
+
+<div class="section-header">Whether to Transform a Page</div>
+<p>By default, PIE only transforms English pages, but you can also let it transform pages in other languages.</p>
+<div class="indent"><p><label><input type="checkbox" id="force-trans" /> Transform non-English Web pages as well</label></p></div>
+<p>You can also allow/disallow certain websites to be transformed.</p>
+<div class="indent"><p>Allow URLs that contain any of these strings: (one string per line)<br/><textarea rows="5" cols="100" id="allowed"></textarea></p>
+<p>But disallow URLs that contain any of these strings: (one string per line)<br/><textarea rows="5" cols="100" id="disallowed"></textarea></p></div>
+
+<div id="footer">
+<p><button id="btnOK"><b>OK</b></button> <button id="btnCancel"><b>Cancel</b></button></p>
+</div>
+
+<script src="options.js"></script>
+
+</body>
+</html>
+

@@ -1,0 +1,791 @@
+;;; multiple letters
+
+SCHSCH	|	SH	|	SH
+CALLY	|	K L IY	|	K L EE^
+STION	|	SH AH N	|	SH I N^
+TTSCH	|	CH	|	CH
+TZSCH	|	CH	|	CH
+TTSCH	|	T S	|	T S
+ET-CH	|	EY SH	|	AY SH^
+TIONN	|	CH AH N	|	CH I N^
+
+CQUER	|	K ER	|	K É™R^
+CQUEL	|	K AH L	|	K I L^
+
+SSCH	|	SH	|	SH
+SHCH	|	SH	|	SH
+TTSH	|	CH	|	CH
+TTCH	|	CH	|	CH
+
+CION	|	SH AH N	|	SH I N^
+GION	|	JH AH N	|	J I N^
+SION	|	ZH AH N	|	ZH I N^
+SION	|	SH AH N	|	SH I N^
+TION	|	CH AH N	|	CH I N^
+TION	|	SH AH N	|	SH I N^
+TION	|	ZH AH N	|	ZH I N^
+
+TSCH	|	CH	|	CH
+T-SH	|	CH	|	CH
+T-SH	|	SH	|	SH
+TESH	|	CH	|	CH
+SZCZ	|	SH	|	SH
+
+EAHA	|	IY AE	|	EE A ^^
+UEUE	|	Y UW	|	EW^
+CQUE	|	K	|	K
+GIER	|	JH IY ER	|	J EE É™R^^
+GIER	|	JH IH R	|	J EÉ™R^
+GUER	|	G ER	|	G É™R^
+GIOR	|	JH AO R	|	J AW R^
+GEOR	|	JH AO R	|	J AW R^
+GUEL	|	G AH L	|	G I L^
+QUEE	|	K IY	|	K EE^
+QUER	|	K ER	|	K É™R^
+QUEL	|	K AH L	|	K I L^
+QUEU	|	K Y UW	|	K EW^
+EWEL	|	UW AH L	|	OO I L^*
+EWEL	|	Y UW AH L	|	EW I L^*
+ES'S	|	S	|	S'
+CHTS	|	T S	|	T S
+
+AER	|	ER	|	É™R^
+AEU	|	AW	|	OW^
+AHR	|	ER	|	É™R^
+AIE	|	AY	|	Y^
+AIR	|	ER	|	É™R^
+AIR	|	ERR	|	ERR^
+AOH	|	OW	|	OH^
+AOW	|	AW	|	OW^
+ARR	|	ERR	|	ERR^
+ARR	|	ER	|	É™R^
+ARR	|	AA R	|	AR^
+AUR	|	ER	|	É™R^
+AWR	|	ER	|	É™R^
+AWY	|	OY	|	OY^
+AYE	|	AY	|	Y^
+AYY	|	AY	|	Y^
+CAL	|	K L	|	K L
+CCH	|	K	|	K
+CKC	|	K	|	K
+CQU	|	K	|	K
+DER	|	D IY R	|	D EE R^
+EAI	|	IH	|	I ^
+EAR	|	ER	|	É™R^
+EAR	|	ERR	|	ERR^
+EAR	|	IY R	|	EE R^
+EAU	|	AH	|	I^
+EAU	|	AO	|	AW^
+EAU	|	AA	|	O ^
+EAU	|	OW	|	OH^
+EAU	|	Y UW	|	EW^
+EAU	|	UW	|	OO^
+EER	|	IY R	|	EE R^
+EER	|	IY ER	|	EE É™R^*
+EER	|	IY AH R	|	EE I R^*
+EHA	|	AH	|	I^
+EHR	|	ER	|	É™R^
+EIR	|	IY R	|	EE R^
+EIR	|	IY ER	|	EE É™R^*
+EIR	|	IY AH R	|	EE I R^*
+EOR	|	IY ER	|	EE É™R^^
+EOR	|	AO R	|	AW R^
+EOU	|	AW	|	OW^
+EOU	|	AH	|	I^
+EOW	|	Y UW	|	EW^
+ERR	|	ER	|	É™R^
+ERR	|	ERR	|	ERR^
+EUE	|	Y UW	|	EW^
+EUR	|	ER	|	É™R^
+EUR	|	ERR	|	ERR^
+EYE	|	AY	|	Y^
+E'S	|	IH Z	|	I  Z*'
+E'S	|	AH Z	|	I Z*'
+GEE	|	JH IY	|	J EE^
+GEL	|	JH AH L	|	J I L^
+GER	|	JH ERR	|	J É™RR^
+GER	|	JH ER	|	J É™R^
+GUR	|	G ER	|	G É™R^
+GES	|	JH AH Z	|	J I Z^
+GES	|	JH IH Z	|	J I  Z^
+GGH	|	G HH	|	G H
+GIU	|	JH IH	|	J I ^
+GIL	|	JH AH L	|	J I L^
+GIR	|	JH ER	|	J É™R^
+GUE	|	G	|	G
+GUL	|	G AH L	|	G I L^
+IAL	|	AY AH L	|	Y I L^^
+IER	|	ER	|	É™R^
+IER	|	IY ER	|	EE É™R^^
+IER	|	IH ER	|	I  É™R^*
+IER	|	IY R	|	EE R^
+IER	|	IY AH R	|	EE I R^*
+IER	|	AY ER	|	Y É™R^^
+IEU	|	UW	|	OO^
+IEU	|	EH	|	E ^
+IEU	|	Y UW	|	EW^
+IEW	|	UW	|	OO^
+IEW	|	Y UW	|	EW^
+IGH	|	AY	|	Y^
+ION	|	AH N	|	I N^
+IOR	|	AO R	|	AW R^
+IOR	|	IY AO R	|	EE AW R^^
+IOU	|	AH	|	I^
+IOU	|	UW	|	OO^
+IRR	|	ER	|	É™R^
+IRR	|	ERR	|	ERR^
+IYY	|	IY	|	EE^
+LER	|	AH L ER	|	I L É™R*^
+MCC	|	M AH K	|	M I K*
+MCG	|	M AH G	|	M I G*
+MCK	|	M AH K	|	M I K*
+MCQ	|	M AH K	|	M I K*
+MCC	|	M AE K	|	M A  K^
+MCG	|	M AE G	|	M A  G^
+MCK	|	M AE K	|	M A  K^
+MCQ	|	M AE K	|	M A  K^
+OAA	|	OW AH	|	OH I^^
+OAL	|	OW AH L	|	OH I L^^
+OEU	|	UW	|	OO^
+OEW	|	OW	|	OH^
+OLO	|	ERR	|	ERR^
+OAR	|	ER	|	É™R^
+OOR	|	UH R	|	OOR^
+OOR	|	UH AH	|	UU I^*
+OOR	|	AO R	|	AW R^
+OOR	|	AO	|	AW^
+ORR	|	ER	|	É™R^
+ORR	|	ERR	|	ERR^
+OUR	|	ER	|	É™R^
+OUR	|	ERR	|	ERR^
+OUR	|	AW ER	|	OH É™R^*
+OUR	|	AW AH	|	OH I^*
+OUR	|	UH R	|	OOR^
+OUR	|	UH AH	|	UU I^*
+OUY	|	OY	|	OY^
+PPH	|	F	|	F
+PPH	|	P HH	|	P H
+PTH	|	F TH	|	F TH
+QUA	|	K AO	|	K AW^
+QUE	|	K	|	K
+RER	|	R IY R	|	R EE R^
+RRH	|	R	|	R
+SCH	|	SH	|	SH
+SSH	|	S HH	|	S H
+ZZH	|	Z HH	|	Z H
+TCH	|	CH	|	CH
+TCH	|	SH	|	SH
+THM	|	DH AH M	|	DH I M*
+THM	|	TH AH M	|	TH I M*
+TSH	|	CH	|	CH
+TSH	|	SH	|	SH
+TTH	|	TH	|	TH
+TTH	|	T TH	|	T TH
+TTH	|	T HH	|	T H
+UOR	|	AO R	|	AW R^
+UOY	|	OY	|	OY^
+URE	|	Y ER	|	Y É™R*
+URR	|	ERR	|	ERR^
+URR	|	Y ER	|	Y É™R^
+URR	|	Y AH	|	Y I^
+URR	|	Y UW ER	|	EW É™R^*
+URR	|	Y UH ER	|	Y UU É™R^*
+URR	|	Y UW AH	|	EW I^*
+URR	|	Y UH AH	|	Y UU I^*
+URR	|	UW ER	|	OO É™R^*
+URR	|	UH ER	|	UU É™R^*
+URR	|	UW AH	|	OO I^*
+URR	|	UH AH	|	UU I^*
+UYE	|	AY	|	Y^
+YRR	|	ER	|	É™R^
+YRR	|	ERR	|	ERR^
+CKX	|	K S	|	K S
+
+AER	|	AH	|	I^
+AHR	|	AH	|	I^
+AIR	|	AH	|	I^
+ARR	|	AH	|	I^
+AUR	|	AH	|	I^
+AWR	|	AH	|	I^
+EAR	|	AH	|	I^
+ERR	|	AH	|	I^
+EUR	|	AH	|	I^
+IER	|	AH	|	I^
+IRR	|	AH	|	I^
+OAR	|	AH	|	I^
+ORR	|	AH	|	I^
+OUR	|	AH	|	I^
+URR	|	ER	|	É™R^
+
+URR	|	AH	|	I^
+YRR	|	AH	|	I^
+
+BEB	|	B	|	B
+CEC	|	S	|	S
+CES	|	S	|	S
+DED	|	D	|	D
+FEF	|	F	|	F
+GEG	|	G	|	G
+GEG	|	JH	|	J
+HEH	|	H	|	H
+JEJ	|	JH	|	J
+KEC	|	K	|	K
+KEK	|	K	|	K
+LEL	|	AH L	|	I L*
+LEL	|	L	|	L
+LLY	|	L L IY	|	L L EE^
+MEM	|	M	|	M
+NEN	|	N	|	N
+PEP	|	P	|	P
+RER	|	ER ER	|	É™R É™R*^
+RER	|	R ER	|	R É™R^
+RER	|	R	|	R
+SES	|	S	|	S
+SEC	|	S	|	S
+STS	|	S	|	S
+S'S	|	Z	|	Z'
+TET	|	T	|	T
+VEV	|	V	|	V
+ZEZ	|	Z	|	Z
+
+DZ	|	JH	|	J
+'RE	|	ER	|	É™R'*
+
+E-	|		|	E-
+
+;;; double vowel letters
+AA	|	EH	|	E ^
+AA	|	AA	|	O ^
+AA	|	EY	|	AY^
+AA	|	AE	|	A ^
+AA	|	AH	|	I^
+AA	|	AHH	|	AHH^
+AE	|	IY	|	EE^
+AE	|	EH	|	E ^
+AE	|	EY	|	AY^
+AE	|	AH	|	I^
+AE	|	IH	|	I ^
+AI	|	AH	|	I^
+AI	|	AE	|	A ^
+AI	|	AY	|	Y^
+AI	|	IY	|	EE^
+AI	|	EY	|	AY^
+AI	|	EH	|	E ^
+AI	|	IH	|	I ^
+AO	|	AO	|	AW^
+AO	|	AW	|	OW^
+AO	|	OW	|	OH^
+AO	|	EY	|	AY^
+AR	|	AA R	|	AR^
+AR	|	AA	|	O ^
+AR	|	ER	|	É™R^
+AR	|	ERR	|	ERR^
+AU	|	AH	|	I^
+AU	|	AO	|	AW^
+AU	|	AW	|	OW^
+AU	|	UW	|	OO^
+;;;AU	|	AA	|	O ^
+AU	|	EY	|	AY^
+AU	|	AE	|	A ^
+AU	|	AHH	|	AHH^
+AU	|	OW	|	OH^
+AW	|	AW	|	OW^
+AW	|	AO	|	AW^
+AY	|	AY	|	Y^
+AY	|	IH	|	I ^
+AY	|	EY	|	AY^
+AY	|	IY	|	EE^
+AY	|	EH	|	E ^
+EA	|	AH	|	I^
+EA	|	EH	|	E ^
+EA	|	EY	|	AY^
+EA	|	AO	|	AW^
+EA	|	IH	|	I ^
+EA	|	AA	|	O ^
+EA	|	Y AH	|	Y I^
+EE	|	IH	|	I ^
+EE	|	IY	|	EE^
+EE	|	EY	|	AY^
+EI	|	AH	|	I^
+EI	|	EH	|	E ^
+EI	|	IH	|	I ^
+EI	|	IY	|	EE^
+EI	|	AY	|	Y^
+EI	|	EY	|	AY^
+EO	|	AH	|	I^
+EO	|	EH	|	E ^
+EO	|	AO	|	AW^
+EO	|	IH	|	I ^
+EO	|	OW	|	OH^
+EO	|	AA	|	O ^
+ER	|	ER	|	É™R^
+ER	|	ERR	|	ERR^
+ER	|	AH	|	I^
+ER	|	IY R	|	EE R^
+ER	|	IY ER	|	EE É™R^*
+ER	|	IY AH R	|	EE I R^*
+EU	|	AH	|	I^
+EU	|	OY	|	OY^
+EU	|	AHH	|	AHH^
+EU	|	UH	|	UU^
+EU	|	UW	|	OO^
+EU	|	Y UH	|	Y UU^
+EU	|	Y UW	|	EW^
+EU	|	OW	|	OH^
+EW	|	UW	|	OO^
+EW	|	Y UH	|	Y UU^
+EW	|	Y UW	|	EW^
+EW	|	OW	|	OH^
+EY	|	AY	|	Y^
+EY	|	EY	|	AY^
+EY	|	IY	|	EE^
+EY	|	IH	|	I ^
+EY	|	Y	|	Y
+IA	|	Y AH	|	Y I^
+IA	|	AY	|	Y^
+IA	|	AH	|	I^
+IA	|	EY	|	AY^
+IA	|	AA	|	O ^
+IE	|	AH	|	I^
+IE	|	AY	|	Y^
+IE	|	EH	|	E ^
+IE	|	IH	|	I ^
+IE	|	IY	|	EE^
+IE	|	EY	|	AY^
+II	|	IY	|	EE^
+IO	|	AO	|	AW^
+IO	|	OW	|	OH^
+IO	|	AH	|	I^
+IR	|	ER	|	É™R^
+IR	|	AY ER	|	Y É™R^*
+IR	|	AY AH	|	Y I^*
+IR	|	ERR	|	ERR^
+IU	|	AH	|	I^
+IU	|	UW	|	OO^
+;;;IY	|	IY	|	EE^
+OA	|	OW AH	|	OH I^^
+OA	|	AO	|	AW^
+OA	|	OW	|	OH^
+OE	|	IY	|	EE^
+OE	|	AH	|	I^
+OE	|	IH	|	I ^
+OE	|	AO	|	AW^
+;;;OE	|	UW	|	OO^
+OE	|	EY	|	AY^
+OE	|	EH	|	E ^
+OH	|	OW	|	OH^
+OI	|	AH	|	I^
+OI	|	AY	|	Y^
+OI	|	OY	|	OY^
+OI	|	IY	|	EE^
+OI	|	W AY	|	W Y^
+OI	|	W AA	|	W O ^
+OI	|	W AH	|	W I^
+OJ	|	OY	|	OY^
+OO	|	AO	|	AW^
+OO	|	UW	|	OO^
+OO	|	UH	|	UU^
+OO	|	AHH	|	AHH^
+;;;OO	|	OW	|	OH^
+OR	|	ER	|	É™R^
+OR	|	ERR	|	ERR^
+OR	|	AO	|	AW^
+OU	|	AW	|	OW^
+OU	|	AO	|	AW^
+OU	|	UW	|	OO^
+OU	|	Y UW	|	EW^
+OU	|	AH	|	I^
+OU	|	AA	|	O ^
+OU	|	AHH	|	AHH^
+OU	|	UH	|	UU^
+OU	|	OW	|	OH^
+OW	|	AW	|	OW^
+OW	|	OW	|	OH^
+OW	|	AH	|	I^
+OW	|	OW W	|	OH W^
+OY	|	OY	|	OY^
+OY	|	AY	|	Y^
+RE	|	ER	|	É™R^
+UA	|	EH	|	E ^
+UA	|	AH	|	I^
+UE	|	EH	|	E ^
+UE	|	IH	|	I ^
+UE	|	IY	|	EE^
+UE	|	UW	|	OO^
+UE	|	Y UW	|	EW^
+UE	|	AH	|	I^
+UH	|	AHH	|	AHH^
+UH	|		|	UH
+UI	|	AY	|	Y^
+UI	|	IH	|	I ^
+UI	|	IY	|	EE^
+UI	|	AH	|	I^
+UI	|	UW	|	OO^
+UI	|	UH	|	UU^
+UI	|	Y UW	|	EW^
+UO	|	AH	|	I^
+UO	|	OW	|	OH^
+UO	|	AO	|	AW^
+
+UR	|	ER	|	É™R^
+UR	|	ERR	|	ERR^
+UR	|	Y ER	|	Y É™R^
+UR	|	Y AH	|	Y I^
+UR	|	Y UW ER	|	EW É™R^*
+UR	|	Y UH ER	|	Y UU É™R^*
+UR	|	Y UW AH	|	EW I^*
+UR	|	Y UH AH	|	Y UU I^*
+UR	|	UW ER	|	OO É™R^*
+UR	|	UH ER	|	UU É™R^*
+UR	|	UW AH	|	OO I^*
+UR	|	UH AH	|	UU I^*
+UY	|	AY	|	Y^
+UY	|	IH	|	I ^
+WO	|	UW	|	OO^
+WO	|	AHH	|	AHH^
+YR	|	ER	|	É™R^
+YR	|	AY ER	|	Y É™R^*
+YR	|	ERR	|	ERR^
+
+OER	|	ERR	|	ERR^
+OE	|	ERR	|	ERR^
+
+AR	|	AH	|	I^
+ER	|	AH	|	I^
+IR	|	AH	|	I^
+OR	|	AH	|	I^
+UR	|	AH	|	I^
+YR	|	AH	|	I^
+
+;;; double consonant letters
+BB	|	B	|	B
+CC	|	S	|	S
+CC	|	K	|	K
+CC	|	CH	|	CH
+CK	|	K	|	K
+CH'S	|	CH AH Z	|	CH I Z'*
+CH	|	CH	|	CH
+CH	|	K	|	K
+CH	|	SH	|	SH
+CH	|	K HH	|	K H
+CQ	|	K	|	K
+CS	|	S	|	S
+CZ	|	CH	|	CH
+DD	|	D	|	D
+DD	|	JH	|	J
+DG	|	JH	|	J
+DG	|	D G	|	D G
+DJ	|	JH	|	J
+ED	|	T	|	T
+ED	|	D	|	D
+FF	|	F	|	F
+GG	|	G	|	G
+GG	|	JH	|	J
+GH	|		|	GH
+GH	|	G HH	|	G H
+HH	|	HH	|	H
+JJ	|	JH	|	J
+KC	|	K	|	K
+KK	|	K	|	K
+LL	|	L	|	L
+LL	|	AH L	|	I L*
+MC	|	M AH K	|	M I K*
+MC	|	M AE K	|	M A  K^
+MM	|	M	|	M
+NN	|	N	|	N
+NG	|	NG	|	NG
+PH	|	F	|	F
+PH	|	P HH	|	P H
+PP	|	P	|	P
+PS	|		|	PS
+RR	|	R	|	R
+RR	|	ER	|	É™R*
+RR	|	AH R	|	I R*
+RR	|	AH	|	I*
+SC	|	S	|	S
+SC	|	CH	|	CH
+SC	|	SH	|	SH
+SG	|	ZH	|	ZH
+SH	|	SH	|	SH
+SH	|	ZH	|	ZH
+SH	|	S HH	|	S H
+ZH	|	Z HH	|	Z H
+SM	|	Z AH M	|	Z I M*
+SM	|	S AH M	|	S I M*
+SS	|	S	|	S
+SS	|	Z	|	Z
+SZ	|	Z	|	Z
+SZ	|	SH	|	SH
+SS	|	SH	|	SH
+ST	|	S	|	S
+TT	|	T	|	T
+TH	|	TH	|	TH
+TH	|	T TH	|	T TH
+TH	|	DH	|	DH
+TH	|	T HH	|	T H
+'VE	|	AH V	|	I V'*
+VV	|	V	|	V
+WH	|	HH W	|	H W
+WH	|	HH	|	H
+XC	|	K S	|	K S
+XS	|	K S	|	K S
+XX	|	K S	|	K S
+XZ	|	K S	|	K S
+ZH	|	ZH	|	ZH
+ZS	|	S	|	S
+ZZ	|	Z	|	Z
+ZZ	|	T S	|	T S
+
+CI	|	SH	|	SH
+CI	|	SH Y	|	SH Y
+DI	|	JH	|	J
+GE	|	JH	|	J
+GI	|	JH	|	J
+GU	|	G	|	G
+JO	|	W	|	W
+LE	|	AH L	|	I L*
+QU	|	K	|	K
+SI	|	ZH	|	ZH
+TI	|	SH	|	SH
+TI	|	CH	|	CH
+TI	|	ZH	|	ZH
+XI	|	SH	|	SH
+SCI	|	SH	|	SH
+SSI	|	SH	|	SH
+SSI	|	ZH	|	ZH
+
+;;; single short-vowel letters
+A	|	AE	|	A ^
+A	|	EH	|	E ^
+A	|	IH	|	I ^
+E	|	EH	|	E ^
+E	|	IH	|	I ^
+I	|	IH	|	I ^
+O	|	AHH	|	AHH^
+O	|	UH	|	UU^
+U	|	AHH	|	AHH^
+U	|	UH	|	UU^
+Y	|	IH	|	I ^
+
+;;; single long-vowel letters
+A	|	EY	|	AY^
+A	|	AO	|	AW^
+A	|	AA	|	O ^
+E	|	EY	|	AY^
+E	|	IY	|	EE^
+E	|	AA	|	O ^
+I	|	AY	|	Y^
+I	|	IY	|	EE^
+O	|	AA	|	O ^
+O	|	OW	|	OH^
+O	|	AO	|	AW^
+O	|	AW	|	OW^
+O	|	UW	|	OO^
+U	|	Y UW	|	EW^
+U	|	UW	|	OO^
+U	|	Y UH	|	Y UU^
+W	|	UW	|	OO^
+Y	|	AY	|	Y^
+Y	|	IY	|	EE^
+
+;;; single schwa letters
+A	|	AH	|	I^
+E	|	AH	|	I^
+I	|	AH	|	I^
+O	|	AH	|	I^
+U	|	AH	|	I^
+Y	|	AH	|	I^
+
+;;; single consonant letters
+B	|	B	|	B
+C	|	S	|	S
+C	|	K	|	K
+C	|	CH	|	CH
+C	|	SH	|	SH
+C	|	ZH	|	ZH
+C	|	T S	|	T S
+D	|	D	|	D
+D	|	JH	|	J
+E	|	Y	|	Y
+F	|	F	|	F
+F	|	V	|	V
+G	|	G	|	G
+G	|	JH	|	J
+G	|	ZH	|	ZH
+H	|	HH	|	H
+I	|	Y	|	Y
+J	|	JH	|	J
+J	|	ZH	|	ZH
+J	|	Y	|	Y
+K	|	K	|	K
+L	|	L	|	L
+L	|	AH L	|	I L*
+M	|	M	|	M
+N	|	N	|	N
+N	|	NG	|	NG
+P	|	P	|	P
+Q	|	K	|	K
+R	|	R	|	R
+R	|	ER	|	É™R*
+R	|	AH	|	I*
+R	|	ERR	|	ERR^
+S	|	S	|	S
+S	|	SH	|	SH
+S	|	CH	|	CH
+S	|	Z	|	Z
+S	|	ZH	|	ZH
+T	|	T	|	T
+T	|	SH	|	SH
+T	|	CH	|	CH
+T	|	ZH	|	ZH
+U	|	W	|	W
+U	|	AH W	|	I W^
+V	|	V	|	V
+W	|	W	|	W
+X	|	K S	|	K S
+X	|	K SH	|	K SH
+X	|	G Z	|	G Z
+X	|	G ZH	|	G ZH
+X	|	Z	|	Z
+X	|	SH	|	SH
+Y	|	Y	|	Y
+Z	|	Z	|	Z
+Z	|	ZH	|	ZH
+Z	|	S	|	S
+Z	|	T S	|	T S
+'S	|	IH Z	|	I  Z'*
+'	|	IH Z	|	I  Z'*
+
+;;; punctuations
+'	|		|	''
+.	|		|	.
+-	|		|	-
+_	|		|	_
+
+UE	|		|	UE
+;;; silent letters
+A	|		|	A
+B	|		|	B
+C	|		|	C
+D	|		|	D
+E	|		|	E
+F	|		|	F
+G	|		|	G
+H	|		|	H
+I	|		|	I
+J	|		|	J
+K	|		|	K
+L	|		|	L
+M	|		|	M
+N	|		|	N
+O	|		|	O
+P	|		|	P
+Q	|		|	Q
+R	|		|	R
+S	|		|	S
+T	|		|	T
+U	|		|	U
+V	|		|	V
+W	|		|	W
+X	|		|	X
+Y	|		|	Y
+Z	|		|	Z
+
+;;; demoted frags
+A	|	AHH	|	AHH^
+E	|	AHH	|	AHH^
+O	|	W AHH	|	W I^
+U	|	Y AH	|	Y I^
+U	|	Y AH W	|	Y I W^
+U	|	UW W	|	OO W^
+U	|	Y UW W	|	EW W^
+O	|	IH	|	I ^
+U	|	EH	|	E ^
+U	|	IH	|	I ^
+
+'	|	IH	|	I '*
+
+CH	|	HH	|	H
+CU	|	K	|	K
+CZ	|	CH	|	CH
+FF	|	V	|	V
+GH	|	F	|	F
+GH	|	AH	|	I*
+GH	|	P	|	P
+PH	|	V	|	V
+TS	|		|	TS
+XS	|	K S IH Z	|	K S I  Z*
+UH	|	AH	|	I^
+
+-N-	|	AH N	|	I N*
+'N'	|	AH N	|	I N'*'
+
+D	|	T	|	T
+D'
+O	|		|	O
+P	|		|	P
+Q	|		|	Q
+R	|		|	R
+S	|		|	S
+T	|		|	T
+U	|		|	U
+V	|		|	V
+W	|		|	W
+X	|		|	X
+Y	|		|	Y
+Z	|		|	Z
+
+;;; demoted frags
+A	|	AHH	|	AHH^
+E	|	AHH	|	AHH^
+O	|	W AHH	|	W I^
+U	|	Y AH	|	Y I^
+U	|	Y AH W	|	Y I W^
+U	|	UW W	|	OO W^
+U	|	Y UW W	|	EW W^
+O	|	IH	|	I ^
+U	|	EH	|	E ^
+U	|	IH	|	I ^
+
+'	|	IH	|	I '*
+
+CH	|	HH	|	H
+CU	|	K	|	K
+CZ	|	CH	|	CH
+FF	|	V	|	V
+GH	|	F	|	F
+GH	|	AH	|	I*
+GH	|	P	|	P
+PH	|	V	|	V
+TS	|		|	TS
+XS	|	K S IH Z	|	K S I  Z*
+UH	|	AH	|	I^
+
+-N-	|	AH N	|	I N*
+'N'	|	AH N	|	I N'*'
+
+D	|	T	|	T
+D'	|	D IY	|	D EE'*
+OEU	|	ERR	|	ERR^
+IN	|	AE N	|	A  N^
+IN	|	AE NG	|	A  NG^
+M	|	M AH	|	M I*
+D	|	D AH	|	D I*
+G	|	G AH	|	G I*
+H	|	H AH	|	H I*
+J	|	HH	|	H
+K	|	K AH	|	K I*
+DN	|	D AH N	|	D I N*
+N'T	|	AH N T	|	I N T*'
+ZM	|	Z AH M	|	Z I M*
+'S	|	AH Z	|	I Z*'
+S'	|	S AH Z	|	S I Z'*
+S'	|	Z AH Z	|	Z I Z'*
+N	|	N Y	|	N Y
+U	|	AO	|	AW^
+V	|	F	|	F
+V	|	W	|	W
+W	|	V	|	V
+W	|	F	|	F
+X	|	HH	|	H
+E	|	AO	|	AW^

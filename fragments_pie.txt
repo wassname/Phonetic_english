@@ -1,0 +1,747 @@
+;;; multiple letters
+
+SCHSCH	|	SH	|	S&#807;C&#807;H&#821;S&#807;C&#807;H&#821;
+CALLY	|	K L IY	|	C&#809;A&#775;LLY&#776;^
+STION	|	SH AH N	|	S&#807;T&#807;IO&#768;^N
+TTSCH	|	CH	|	T&#808;T&#808;S&#808;C&#808;H&#821;
+TZSCH	|	CH	|	T&#808;Z&#808;S&#808;C&#808;H&#821;
+TTSCH	|	T S	|	TTSCH&#821;
+ET-CH	|	EY SH	|	E&#776;^T&#821;-C&#807;H&#821;
+TIONN	|	CH AH N	|	T&#808;IO&#768;^NN
+
+CQUER	|	K ER	|	C&#809;QUE&#768;^R
+CQUEL	|	K AH L	|	C&#809;QUE&#768;^L
+
+SSCH	|	SH	|	S&#807;S&#807;C&#807;H&#821;
+SHCH	|	SH	|	S&#807;H&#821;C&#807;H&#821;
+TTSH	|	CH	|	T&#808;T&#808;S&#808;H&#821;
+TTCH	|	CH	|	T&#808;T&#808;C&#808;H&#821;
+
+CION	|	SH AH N	|	C&#807;IO&#768;^N
+GION	|	JH AH N	|	G&#781;IO&#768;^N
+SION	|	ZH AH N	|	S&#817;IO&#768;^N
+SION	|	SH AH N	|	S&#807;IO&#768;^N
+TION	|	CH AH N	|	T&#808;IO&#768;^N
+TION	|	SH AH N	|	T&#807;IO&#768;^N
+TION	|	ZH AH N	|	T&#817;IO&#768;^N
+
+TSCH	|	CH	|	T&#808;S&#808;C&#808;H&#821;
+T-SH	|	CH	|	T-S&#807;H&#821;
+T-SH	|	SH	|	T-S&#807;H&#821;
+TESH	|	CH	|	T&#808;E&#775;S&#808;H&#821;
+SZCZ	|	SH	|	S&#807;Z&#807;C&#807;Z&#807;
+
+EAHA	|	IY AE	|	E&#772;^AH&#821;A&#769;^
+UEUE	|	Y UW	|	U&#772;^EUE
+CQUE	|	K	|	C&#809;QU&#775;E&#775;
+GIER	|	JH IY ER	|	G&#781;I&#776;^E&#768;^R
+GIER	|	JH IH R	|	G&#781;I&#769;^ER
+GUER	|	G ER	|	GUE&#768;^R
+GIOR	|	JH AO R	|	G&#781;IO&#776;&#769;^R
+GEOR	|	JH AO R	|	G&#781;EO&#776;&#769;^R
+GUEL	|	G AH L	|	GUE&#768;^L
+QUEE	|	K IY	|	QU&#775;E&#772;^E
+QUER	|	K ER	|	QUE&#768;^R
+QUEL	|	K AH L	|	QUE&#768;^L
+QUEU	|	K Y UW	|	QU&#772;^EU
+EWEL	|	UW AH L	|	EW&#776;^E*L
+EWEL	|	Y UW AH L	|	EW&#772;^E*L
+ES'S	|	S	|	E&#775;S&#775;'S
+CHTS	|	T S	|	C&#775;H&#821;TS
+
+AER	|	ER	|	AE&#768;^R
+AEU	|	AW	|	A&#779;^EU
+AHR	|	ER	|	A&#768;^H&#821;R
+AIE	|	AY	|	AI&#772;^E
+AIR	|	ER	|	AI&#768;^R
+AIR	|	ERR	|	AIR&#776;^
+AOH	|	OW	|	AO&#772;^H&#821;
+AOW	|	AW	|	AO&#779;^W&#821;
+ARR	|	ERR	|	AR&#776;^R
+ARR	|	ER	|	A&#768;^RR
+ARR	|	AA R	|	A&#776;^RR
+AUR	|	ER	|	AU&#768;^R
+AWR	|	ER	|	A&#768;^W&#821;R
+AWY	|	OY	|	A&#855;^W&#821;Y&#781;
+AYE	|	AY	|	AY&#772;^E
+AYY	|	AY	|	AY&#772;^Y&#821;
+CAL	|	K L	|	C&#809;A&#775;L
+CCH	|	K	|	C&#809;C&#809;H&#821;
+CKC	|	K	|	C&#809;KC&#809;
+CQU	|	K	|	C&#809;QU&#821;
+DER	|	D IY R	|	DE&#772;^R
+EAI	|	IH	|	EAI&#769;^
+EAR	|	ER	|	EA&#768;^R
+EAR	|	ERR	|	EAR&#776;^
+EAR	|	IY R	|	E&#781;^AR
+EAU	|	AH	|	EA&#768;U^
+EAU	|	AO	|	EA&#783;^U
+EAU	|	AA	|	EA&#776;^U
+EAU	|	OW	|	EA&#768;^U&#774;
+EAU	|	Y UW	|	EAU&#772;^
+EAU	|	UW	|	EAU&#776;^
+EER	|	IY R	|	E&#781;^ER
+EER	|	IY ER	|	E&#772;^E*R
+EER	|	IY AH R	|	E&#772;^E*R
+EHA	|	AH	|	E&#775;H&#821;A&#768;^
+EHR	|	ER	|	E&#768;^H&#821;R
+EIR	|	IY R	|	EI&#769;^R
+EIR	|	IY ER	|	EI&#769;^*R
+EIR	|	IY AH R	|	EI&#769;^*R
+EOR	|	IY ER	|	E&#772;^O&#768;^R
+EOR	|	AO R	|	EO&#776;&#769;^R
+EOU	|	AW	|	EO&#779;^U
+EOU	|	AH	|	EO&#768;^U
+EOW	|	Y UW	|	EOW&#772;^
+ERR	|	ER	|	E&#768;^RR
+ERR	|	ERR	|	ER&#776;^R
+EUE	|	Y UW	|	EU&#772;^E
+EUR	|	ER	|	EU&#768;^R
+EUR	|	ERR	|	EUR&#776;^
+EYE	|	AY	|	EY&#772;^E
+E'S	|	IH Z	|	E&#775;*'S&#809;
+E'S	|	AH Z	|	E&#775;*'S&#809;
+GEE	|	JH IY	|	G&#781;E&#772;^E
+GEL	|	JH AH L	|	G&#781;E&#768;^L
+GER	|	JH ERR	|	G&#781;ER&#776;^
+GER	|	JH ER	|	G&#781;E&#768;^R
+GUR	|	G ER	|	GU&#768;^R
+GES	|	JH AH Z	|	G&#781;E&#768;^S&#809;
+GES	|	JH IH Z	|	G&#781;E&#781;^S&#809;
+GGH	|	G HH	|	GG&#183;H
+GIU	|	JH IH	|	G&#781;I&#769;^U
+GIL	|	JH AH L	|	G&#781;I&#768;^L
+GIR	|	JH ER	|	G&#781;I&#768;^R
+GUE	|	G	|	GU&#775;E&#775;
+GUL	|	G AH L	|	GU&#768;^L
+IAL	|	AY AH L	|	I&#772;^A&#768;^L
+IER	|	ER	|	IE&#768;^R
+IER	|	IY ER	|	I&#776;^E&#768;^R
+IER	|	IH ER	|	I&#769;^E*R
+IER	|	IY R	|	I&#769;^ER
+IER	|	IY AH R	|	I&#769;^E*R
+IER	|	AY ER	|	I&#772;^E&#768;^R
+IEU	|	UW	|	IEU&#776;^
+IEU	|	EH	|	IE&#769;^U
+IEU	|	Y UW	|	IEU&#772;^
+IEW	|	UW	|	IEW&#776;^
+IEW	|	Y UW	|	IEW&#772;^
+IGH	|	AY	|	I&#772;^G&#821;H&#821;
+ION	|	AH N	|	IO&#768;^N
+IOR	|	AO R	|	IO&#776;&#769;^R
+IOR	|	IY AO R	|	I&#776;^O&#776;&#769;^R
+IOU	|	AH	|	IO&#768;^U
+IOU	|	UW	|	IOU&#776;^
+IRR	|	ER	|	I&#768;^RR
+IRR	|	ERR	|	IR&#776;^R
+IYY	|	IY	|	I&#776;^Y&#821;Y&#821;
+LER	|	AH L ER	|	*LE&#768;^R
+MCC	|	M AH K	|	M*C&#809;C&#809;
+MCG	|	M AH G	|	M*C&#809;G
+MCK	|	M AH K	|	M*C&#809;K
+MCQ	|	M AH K	|	M*C&#809;Q
+MCC	|	M AE K	|	M^C&#809;C&#809;
+MCG	|	M AE G	|	M^C&#809;G
+MCK	|	M AE K	|	M^C&#809;K
+MCQ	|	M AE K	|	M^C&#809;Q
+OAA	|	OW AH	|	O&#772;^AA&#768;^
+OAL	|	OW AH L	|	O&#772;^A&#768;^L
+OEU	|	UW	|	OEU&#776;^
+OEW	|	OW	|	OE&#768;^W&#774;
+OLO	|	ERR	|	O&#768;^L&#821;O&#768;
+OAR	|	ER	|	OA&#768;^R
+OOR	|	UH R	|	O&#774;^OR
+OOR	|	UH AH	|	O&#774;^OR*
+OOR	|	AO R	|	O&#776;^OR
+OOR	|	AO	|	O&#776;^OR
+ORR	|	ER	|	O&#768;^RR
+ORR	|	ERR	|	OR&#776;^R
+OUR	|	ER	|	OU&#768;^R
+OUR	|	ERR	|	OUR&#776;^
+OUR	|	AW ER	|	O&#779;^U*R
+OUR	|	AW AH	|	O&#779;^U*R
+OUR	|	UH R	|	OU&#774;^R
+OUR	|	UH AH	|	OU&#774;^R*
+OUY	|	OY	|	O&#769;UY&#769;^
+PPH	|	F	|	P&#782;P&#782;H&#821;
+PPH	|	P HH	|	PP&#183;H
+PTH	|	F TH	|	P&#782;T&#809;H&#821;
+QUA	|	K AO	|	QUA&#783;^
+QUE	|	K	|	QU&#775;E&#775;
+RER	|	R IY R	|	RE&#772;^R
+RRH	|	R	|	RRH&#821;
+SCH	|	SH	|	S&#807;C&#807;H&#821;
+SSH	|	S HH	|	SS&#183;H
+ZZH	|	Z HH	|	ZZ&#183;H
+TCH	|	CH	|	T&#808;C&#808;H&#821;
+TCH	|	SH	|	T&#807;C&#807;H&#821;
+THM	|	DH AH M	|	T&#840;*H&#821;M
+THM	|	TH AH M	|	T&#809;*H&#821;M
+TSH	|	CH	|	T&#808;S&#808;H&#821;
+TSH	|	SH	|	T&#821;S&#807;H&#821;
+TTH	|	TH	|	T&#809;T&#809;H&#821;
+TTH	|	T TH	|	T&#183;T&#809;H&#821;
+TTH	|	T HH	|	TT&#183;H
+UOR	|	AO R	|	UO&#776;&#769;^R
+UOY	|	OY	|	UO&#769;^Y&#769;
+URE	|	Y ER	|	U&#781;R*E&#775;
+URR	|	ERR	|	UR&#776;^R
+URR	|	Y ER	|	U&#772;^RR
+URR	|	Y AH	|	U&#772;^RR
+URR	|	Y UW ER	|	U&#772;^R*R
+URR	|	Y UH ER	|	U&#772;^R*R
+URR	|	Y UW AH	|	U&#772;^R*R
+URR	|	Y UH AH	|	U&#772;^R*R
+URR	|	UW ER	|	U&#776;^R*R
+URR	|	UH ER	|	U&#774;^R*R
+URR	|	UW AH	|	U&#776;^R*R
+URR	|	UH AH	|	U&#774;^R*R
+UYE	|	AY	|	UY&#772;^E
+YRR	|	ER	|	Y&#768;^RR
+YRR	|	ERR	|	YR&#776;^R
+CKX	|	K S	|	C&#809;KX
+
+AER	|	AH	|	AE&#768;^R
+AHR	|	AH	|	A&#768;^H&#821;R
+AIR	|	AH	|	AI&#768;^R
+ARR	|	AH	|	A&#768;^RR
+AUR	|	AH	|	AU&#768;^R
+AWR	|	AH	|	A&#768;^W&#821;R
+EAR	|	AH	|	EA&#768;^R
+ERR	|	AH	|	E&#768;^RR
+EUR	|	AH	|	EU&#768;^R
+IER	|	AH	|	IE&#768;^R
+IRR	|	AH	|	I&#768;^RR
+OAR	|	AH	|	OA&#768;^R
+ORR	|	AH	|	O&#768;^RR
+OUR	|	AH	|	OU&#768;^R
+URR	|	ER	|	U&#768;^RR
+
+URR	|	AH	|	U&#768;^RR
+YRR	|	AH	|	Y&#768;^RR
+
+BEB	|	B	|	BE&#775;B
+CEC	|	S	|	CE&#775;C
+CES	|	S	|	CE&#775;S
+DED	|	D	|	DE&#775;D
+FEF	|	F	|	FE&#775;F
+GEG	|	G	|	GE&#775;G
+GEG	|	JH	|	GE&#775;G
+HEH	|	H	|	HE&#775;H
+JEJ	|	JH	|	JE&#775;J
+KEC	|	K	|	KE&#775;C&#809;
+KEK	|	K	|	KE&#775;K
+LEL	|	AH L	|	*LE&#775;L
+LEL	|	L	|	LE&#775;L
+LLY	|	L L IY	|	LLY&#776;^
+MEM	|	M	|	ME&#775;M
+NEN	|	N	|	NE&#775;N
+PEP	|	P	|	PE&#775;P
+RER	|	ER ER	|	R*E&#768;^R
+RER	|	R ER	|	RE&#768;^R
+RER	|	R	|	RE&#775;R
+SES	|	S	|	SE&#775;S
+SEC	|	S	|	SE&#775;C
+STS	|	S	|	ST&#821;S
+S'S	|	Z	|	S&#775;'S&#809;
+TET	|	T	|	TE&#775;T
+VEV	|	V	|	VE&#775;V
+ZEZ	|	Z	|	ZE&#775;Z
+
+DZ	|	JH	|	D&#809;Z&#817;
+'RE	|	ER	|	'R*E&#775;
+
+E-	|		|	E&#775;-
+
+;;; double vowel letters
+AA	|	EH	|	A&#849;^A
+AA	|	AA	|	A&#776;^A
+AA	|	EY	|	A&#772;^A
+AA	|	AE	|	A&#769;^A
+AA	|	AH	|	AA&#768;^
+AA	|	AHH	|	A&#770;^A
+AE	|	IY	|	AE&#772;^
+AE	|	EH	|	AE&#769;^
+AE	|	EY	|	A&#772;^E
+AE	|	AH	|	A&#768;^E
+AE	|	IH	|	AE&#781;^
+AI	|	AH	|	A&#768;^I
+AI	|	AE	|	A&#769;^I
+AI	|	AY	|	AI&#772;^
+AI	|	IY	|	AI&#776;^
+AI	|	EY	|	A&#772;^I
+AI	|	EH	|	A&#849;^I
+AI	|	IH	|	AI&#769;^
+AO	|	AO	|	AO&#776;^
+AO	|	AW	|	A&#779;^O
+AO	|	OW	|	AO&#772;^
+AO	|	EY	|	A&#772;^O
+AR	|	AA R	|	A&#776;^R
+AR	|	AA	|	A&#776;^R
+AR	|	ER	|	A&#768;^R
+AR	|	ERR	|	AR&#776;^
+AU	|	AH	|	A&#768;^U
+AU	|	AO	|	A&#783;^U
+AU	|	AW	|	A&#779;^U
+AU	|	UW	|	AU&#776;^
+;;;AU	|	AA	|	A&#783;^U
+AU	|	EY	|	A&#772;^U
+AU	|	AE	|	A&#769;^U
+AU	|	AHH	|	AU&#769;^
+AU	|	OW	|	A&#768;^U&#774;
+AW	|	AW	|	A&#779;^W&#821;
+AW	|	AO	|	A&#783;^W&#821;
+AY	|	AY	|	AY&#772;^
+AY	|	IH	|	AY&#781;^
+AY	|	EY	|	A&#772;^Y&#821;
+AY	|	IY	|	AY&#776;^
+AY	|	EH	|	A&#849;^Y&#821;
+EA	|	AH	|	EA&#768;^
+EA	|	EH	|	E&#769;^A
+EA	|	EY	|	EA&#772;^
+EA	|	AO	|	EA&#783;^
+EA	|	IH	|	E&#781;^A
+EA	|	AA	|	EA&#776;^
+EA	|	Y AH	|	E&#781;A&#768;^
+EE	|	IH	|	E&#781;^E
+EE	|	IY	|	E&#772;^E
+EE	|	EY	|	E&#776;^E
+EI	|	AH	|	E&#768;^I
+EI	|	EH	|	E&#769;^I
+EI	|	IH	|	EI&#769;^
+EI	|	IY	|	E&#772;^I
+EI	|	AY	|	EI&#772;^
+EI	|	EY	|	E&#769;^I&#769;
+EO	|	AH	|	EO&#768;^
+EO	|	EH	|	E&#769;^O
+EO	|	AO	|	EO&#776;^
+EO	|	IH	|	E&#781;^O
+EO	|	OW	|	EO&#772;^
+EO	|	AA	|	EO&#769;^
+ER	|	ER	|	E&#768;^R
+ER	|	ERR	|	ER&#776;^
+ER	|	AH	|	E&#768;^R
+ER	|	IY R	|	E&#781;^R
+ER	|	IY ER	|	E&#781;^*R
+ER	|	IY AH R	|	E&#781;^*R
+EU	|	AH	|	EU&#768;^
+EU	|	OY	|	E&#855;^U&#781;
+EU	|	AHH	|	EU&#769;^
+EU	|	UH	|	EU&#774;^
+EU	|	UW	|	EU&#776;^
+EU	|	Y UH	|	EU&#772;^
+EU	|	Y UW	|	EU&#772;^
+EU	|	OW	|	E&#768;^U&#774;
+EW	|	UW	|	EW&#776;^
+EW	|	Y UH	|	EW&#772;^
+EW	|	Y UW	|	EW&#772;^
+EW	|	OW	|	E&#768;^W&#774;
+EY	|	AY	|	EY&#772;^
+EY	|	EY	|	E&#769;^Y&#769;
+EY	|	IY	|	EY&#776;^
+EY	|	IH	|	EY&#781;^
+EY	|	Y	|	E&#775;Y
+IA	|	Y AH	|	I&#769;A&#768;^
+IA	|	AY	|	I&#772;^A
+IA	|	AH	|	IA&#768;^
+IA	|	EY	|	IA&#772;^
+IA	|	AA	|	IA&#776;^
+IE	|	AH	|	IE&#768;^
+IE	|	AY	|	I&#772;^E
+IE	|	EH	|	IE&#769;^
+IE	|	IH	|	I&#769;^E
+IE	|	IY	|	IE&#772;^
+IE	|	EY	|	IE&#776;^
+II	|	IY	|	I&#776;^I
+IO	|	AO	|	IO&#776;^
+IO	|	OW	|	IO&#772;^
+IO	|	AH	|	IO&#768;^
+IR	|	ER	|	I&#768;^R
+IR	|	AY ER	|	I&#772;^R*
+IR	|	AY AH	|	I&#772;^R*
+IR	|	ERR	|	IR&#776;^
+IU	|	AH	|	IU&#768;^
+IU	|	UW	|	IU&#776;^
+;;;IY	|	IY	|	I&#776;^Y&#821;
+OA	|	OW AH	|	O&#772;^A&#768;^
+OA	|	AO	|	O&#776;^A
+OA	|	OW	|	O&#772;^A
+OE	|	IY	|	OE&#772;^
+OE	|	AH	|	O&#768;^E
+OE	|	IH	|	O&#781;^E
+OE	|	AO	|	O&#776;^E
+;;;OE	|	UW	|	O&#782;^E
+OE	|	EY	|	OE&#776;^
+OE	|	EH	|	OE&#769;^
+OH	|	OW	|	O&#772;^H&#821;
+OI	|	AH	|	O&#768;^I
+OI	|	AY	|	OI&#772;^
+OI	|	OY	|	O&#769;^I&#769;
+OI	|	IY	|	OI&#776;^
+OI	|	W AY	|	O&#774;I&#772;^
+OI	|	W AA	|	O&#778;^I
+OI	|	W AH	|	O&#778;^I
+OJ	|	OY	|	O&#855;^J&#781;
+OO	|	AO	|	O&#776;^O
+OO	|	UW	|	O&#782;^O
+OO	|	UH	|	O&#774;^O
+OO	|	AHH	|	O&#770;^O
+;;;OO	|	OW	|	O&#772;^O
+OR	|	ER	|	O&#768;^R
+OR	|	ERR	|	OR&#776;^
+OR	|	AO	|	O&#776;^R
+OU	|	AW	|	O&#779;^U
+OU	|	AO	|	O&#776;^U
+OU	|	UW	|	OU&#776;^
+OU	|	Y UW	|	OU&#772;^
+OU	|	AH	|	O&#768;^U
+OU	|	AA	|	O&#769;^U
+OU	|	AHH	|	O&#770;^U
+OU	|	UH	|	OU&#774;^
+OU	|	OW	|	O&#772;^U
+OW	|	AW	|	O&#779;^W&#821;
+OW	|	OW	|	O&#772;^W&#821;
+OW	|	AH	|	O&#768;^W&#821;
+OW	|	OW W	|	O&#772;^&#183;W
+OY	|	OY	|	O&#769;^Y&#769;
+OY	|	AY	|	OY&#772;^
+RE	|	ER	|	R&#768;^E
+UA	|	EH	|	UA&#849;^
+UA	|	AH	|	UA&#768;^
+UE	|	EH	|	UE&#769;^
+UE	|	IH	|	UE&#781;^
+UE	|	IY	|	UE&#772;^
+UE	|	UW	|	U&#776;^E
+UE	|	Y UW	|	U&#772;^E
+UE	|	AH	|	UE&#768;^
+UH	|	AHH	|	U&#769;^H&#821;
+UH	|		|	U&#821;H&#821;
+UI	|	AY	|	UI&#772;^
+UI	|	IH	|	UI&#769;^
+UI	|	IY	|	UI&#776;^
+UI	|	AH	|	U&#768;^I
+UI	|	UW	|	U&#776;^I
+UI	|	UH	|	U&#774;^I
+UI	|	Y UW	|	U&#772;^I
+UO	|	AH	|	UO&#768;^
+UO	|	OW	|	UO&#772;^
+UO	|	AO	|	UO&#776;^
+
+UR	|	ER	|	U&#768;^R
+UR	|	ERR	|	UR&#776;^
+UR	|	Y ER	|	U&#772;^R
+UR	|	Y AH	|	U&#772;^R
+UR	|	Y UW ER	|	U&#772;^R*
+UR	|	Y UH ER	|	U&#772;^R*
+UR	|	Y UW AH	|	U&#772;^R*
+UR	|	Y UH AH	|	U&#772;^R*
+UR	|	UW ER	|	U&#776;^R*
+UR	|	UH ER	|	U&#774;^R*
+UR	|	UW AH	|	U&#776;^R*
+UR	|	UH AH	|	U&#774;^R*
+UY	|	AY	|	UY&#772;^
+UY	|	IH	|	UY&#781;^
+WO	|	UW	|	W&#776;^O
+WO	|	AHH	|	W&#821;O&#770;^
+YR	|	ER	|	Y&#768;^R
+YR	|	AY ER	|	Y&#772;^R*
+YR	|	ERR	|	YR&#776;^
+
+OER	|	ERR	|	O&#768;^E&#768;R
+OE	|	ERR	|	O&#768;^E&#768;
+
+AR	|	AH	|	A&#768;^R
+ER	|	AH	|	E&#768;^R
+IR	|	AH	|	I&#768;^R
+OR	|	AH	|	O&#768;^R
+UR	|	AH	|	U&#768;^R
+YR	|	AH	|	Y&#768;^R
+
+;;; double consonant letters
+BB	|	B	|	BB
+CC	|	S	|	CC
+CC	|	K	|	C&#809;C&#809;
+CC	|	CH	|	C&#808;C&#808;
+CK	|	K	|	C&#809;K
+CH'S	|	CH AH Z	|	C&#808;H&#821;'*S&#809;
+CH	|	CH	|	C&#808;H&#821;
+CH	|	K	|	C&#809;H&#821;
+CH	|	SH	|	C&#807;H&#821;
+CH	|	K HH	|	C&#809;&#183;H
+CQ	|	K	|	C&#809;Q
+CS	|	S	|	C&#775;S
+CZ	|	CH	|	C&#808;Z&#808;
+DD	|	D	|	DD
+DD	|	JH	|	D&#809;D&#809;
+DG	|	JH	|	D&#809;G&#781;
+DG	|	D G	|	D&#183;G
+DJ	|	JH	|	D&#809;J
+ED	|	T	|	E&#775;D&#840;
+ED	|	D	|	E&#775;D
+FF	|	F	|	FF
+GG	|	G	|	GG
+GG	|	JH	|	G&#781;G&#781;
+GH	|		|	G&#821;H&#821;
+GH	|	G HH	|	G&#183;H
+HH	|	HH	|	HH
+JJ	|	JH	|	JJ
+KC	|	K	|	KC&#809;
+KK	|	K	|	KK
+LL	|	L	|	LL
+LL	|	AH L	|	*LL
+MC	|	M AH K	|	M*C&#809;
+MC	|	M AE K	|	M^C&#809;
+MM	|	M	|	MM
+NN	|	N	|	NN
+NG	|	NG	|	N&#809;G&#821;
+PH	|	F	|	P&#782;H&#821;
+PH	|	P HH	|	P&#183;H
+PP	|	P	|	PP
+PS	|		|	P&#775;S&#775;
+RR	|	R	|	RR
+RR	|	ER	|	*RR
+RR	|	AH R	|	*RR
+RR	|	AH	|	*RR
+SC	|	S	|	SC
+SC	|	CH	|	S&#808;C&#808;
+SC	|	SH	|	S&#807;C&#807;
+SG	|	ZH	|	S&#817;G&#817;
+SH	|	SH	|	S&#807;H&#821;
+SH	|	ZH	|	S&#817;H&#821;
+SH	|	S HH	|	S&#183;H
+ZH	|	Z HH	|	Z&#183;H
+SM	|	Z AH M	|	S&#809;*M
+SM	|	S AH M	|	S*M
+SS	|	S	|	SS
+SS	|	Z	|	S&#809;S&#809;
+SZ	|	Z	|	S&#809;Z
+SZ	|	SH	|	S&#807;Z&#807;
+SS	|	SH	|	S&#807;S&#807;
+ST	|	S	|	ST&#821;
+TT	|	T	|	TT
+TH	|	TH	|	T&#809;H&#821;
+TH	|	T TH	|	T&#809;H&#821;
+TH	|	DH	|	T&#840;H&#821;
+TH	|	T HH	|	T&#183;H
+'VE	|	AH V	|	'*VE&#775;
+VV	|	V	|	VV
+WH	|	HH W	|	WH&#821;
+WH	|	HH	|	W&#821;H
+XC	|	K S	|	XC
+XS	|	K S	|	XS
+XX	|	K S	|	XX
+XZ	|	K S	|	XZ&#809;
+ZH	|	ZH	|	Z&#817;H&#821;
+ZS	|	S	|	Z&#809;S
+ZZ	|	Z	|	ZZ
+ZZ	|	T S	|	Z&#840;Z&#840;
+
+CI	|	SH	|	C&#807;I&#821;
+CI	|	SH Y	|	C&#807;I&#769;
+DI	|	JH	|	D&#809;I&#821;
+GE	|	JH	|	G&#781;E&#775;
+GI	|	JH	|	G&#781;I&#821;
+GU	|	G	|	GU&#821;
+JO	|	W	|	J&#821;O&#778;
+LE	|	AH L	|	*LE&#775;
+QU	|	K	|	QU&#821;
+SI	|	ZH	|	S&#817;I&#821;
+TI	|	SH	|	T&#807;I&#821;
+TI	|	CH	|	T&#808;I&#821;
+TI	|	ZH	|	T&#817;I&#821;
+XI	|	SH	|	X&#807;I&#821;
+SCI	|	SH	|	S&#807;C&#807;I&#821;
+SSI	|	SH	|	S&#807;S&#807;I&#821;
+SSI	|	ZH	|	S&#817;S&#817;I&#821;
+
+;;; single short-vowel letters
+A	|	AE	|	A&#769;^
+A	|	EH	|	A&#849;^
+A	|	IH	|	A&#781;^
+E	|	EH	|	E&#769;^
+E	|	IH	|	E&#781;^
+I	|	IH	|	I&#769;^
+O	|	AHH	|	O&#770;^
+O	|	UH	|	O&#774;^
+U	|	AHH	|	U&#769;^
+U	|	UH	|	U&#774;^
+Y	|	IH	|	Y&#781;^
+
+;;; single long-vowel letters
+A	|	EY	|	A&#772;^
+A	|	AO	|	A&#783;^
+A	|	AA	|	A&#776;^
+E	|	EY	|	E&#776;^
+E	|	IY	|	E&#772;^
+E	|	AA	|	E&#855;^
+I	|	AY	|	I&#772;^
+I	|	IY	|	I&#776;^
+O	|	AA	|	O&#769;^
+O	|	OW	|	O&#772;^
+O	|	AO	|	O&#776;^
+O	|	AW	|	O&#779;^
+O	|	UW	|	O&#782;^
+U	|	Y UW	|	U&#772;^
+U	|	UW	|	U&#776;^
+U	|	Y UH	|	U&#772;^
+W	|	UW	|	W&#776;^
+Y	|	AY	|	Y&#772;^
+Y	|	IY	|	Y&#776;^
+
+;;; single schwa letters
+A	|	AH	|	A&#768;^
+E	|	AH	|	E&#768;^
+I	|	AH	|	I&#768;^
+O	|	AH	|	O&#768;^
+U	|	AH	|	U&#768;^
+Y	|	AH	|	Y&#768;^
+
+;;; single consonant letters
+B	|	B	|	B
+C	|	S	|	C
+C	|	K	|	C&#809;
+C	|	CH	|	C&#808;
+C	|	SH	|	C&#807;
+C	|	ZH	|	C&#817;
+C	|	T S	|	C&#840;
+D	|	D	|	D
+D	|	JH	|	D&#809;
+E	|	Y	|	E&#781;
+F	|	F	|	F
+F	|	V	|	F&#809;
+G	|	G	|	G
+G	|	JH	|	G&#781;
+G	|	ZH	|	G&#772;
+H	|	HH	|	H
+I	|	Y	|	I&#769;
+J	|	JH	|	J
+J	|	ZH	|	J&#772;
+J	|	Y	|	J&#781;
+K	|	K	|	K
+L	|	L	|	L
+L	|	AH L	|	*L
+M	|	M	|	M
+N	|	N	|	N
+N	|	NG	|	N&#809;
+P	|	P	|	P
+Q	|	K	|	Q
+R	|	R	|	R
+R	|	ER	|	R*
+R	|	AH	|	R*
+R	|	ERR	|	R&#776;^
+S	|	S	|	S
+S	|	SH	|	S&#807;
+S	|	CH	|	S&#808;
+S	|	Z	|	S&#809;
+S	|	ZH	|	S&#817;
+T	|	T	|	T
+T	|	SH	|	T&#807;
+T	|	CH	|	T&#808;
+T	|	ZH	|	T&#817;
+U	|	W	|	U&#840;
+U	|	AH W	|	U&#774;^
+V	|	V	|	V
+W	|	W	|	W
+X	|	K S	|	X
+X	|	K SH	|	X&#778;
+X	|	G Z	|	X&#809;
+X	|	G ZH	|	X&#778;
+X	|	Z	|	X&#840;
+X	|	SH	|	X&#807;
+Y	|	Y	|	Y
+Z	|	Z	|	Z
+Z	|	ZH	|	Z&#817;
+Z	|	S	|	Z&#809;
+Z	|	T S	|	Z&#840;
+'S	|	IH Z	|	'*S&#809;
+'	|	IH Z	|	'*
+
+;;; punctuations
+'	|		|	'
+.	|		|	.
+-	|		|	-
+_	|		|	_
+
+UE	|		|	U&#775;E&#775;
+;;; silent letters
+A	|		|	A&#775;
+B	|		|	B&#821;
+C	|		|	C&#775;
+D	|		|	D&#821;
+E	|		|	E&#775;
+F	|		|	F&#775;
+G	|		|	G&#821;
+H	|		|	H&#821;
+I	|		|	I&#821;
+J	|		|	J&#821;
+K	|		|	K&#821;
+L	|		|	L&#821;
+M	|		|	M&#821;
+N	|		|	N&#821;
+O	|		|	O&#775;
+P	|		|	P&#821;
+Q	|		|	Q&#821;
+R	|		|	R&#821;
+S	|		|	S&#775;
+T	|		|	T&#821;
+U	|		|	U&#821;
+V	|		|	V&#821;
+W	|		|	W&#821;
+X	|		|	X&#821;
+Y	|		|	Y&#821;
+Z	|		|	Z&#821;
+
+;;; demoted frags
+A	|	AHH	|	A&#770;^
+E	|	AHH	|	E&#770;^
+O	|	W AHH	|	O&#778;^
+U	|	Y AH	|	U&#772;^
+U	|	Y AH W	|	U&#772;^
+U	|	UW W	|	U&#776;^
+U	|	Y UW W	|	U&#772;^
+O	|	IH	|	O&#781;^
+U	|	EH	|	U&#849;^
+U	|	IH	|	U&#781;^
+
+'	|	IH	|	'*
+
+CH	|	HH	|	C&#775;H
+CU	|	K	|	C&#809;U&#821;
+CZ	|	CH	|	C&#808;Z&#821;
+FF	|	V	|	F&#809;F&#809;
+GH	|	F	|	G&#782;H&#821;
+GH	|	AH	|	G&#778;*H&#821;
+GH	|	P	|	G&#778;H&#821;
+PH	|	V	|	P&#778;H&#821;
+TS	|		|	T&#821;S&#775;
+XS	|	K S IH Z	|	X*S
+UH	|	AH	|	U&#768;^H&#821;
+
+-N-	|	AH N	|	-*N-
+'N'	|	AH N	|	'*N'
+
+D	|	T	|	D&#840;
+D'	|	D IY	|	D'*
+OEU	|	ERR	|	OE&#768;^U&#768;
+IN	|	AE N	|	I&#778;^N
+IN	|	AE NG	|	I&#778;^N&#809;
+M	|	M AH	|	M*
+D	|	D AH	|	D*
+G	|	G AH	|	G*
+H	|	H AH	|	H*
+J	|	HH	|	J&#778;
+K	|	K AH	|	K*
+DN	|	D AH N	|	D*N
+N'T	|	AH N T	|	*N'T
+ZM	|	Z AH M	|	Z*M
+'S	|	AH Z	|	*'S&#809;
+S'	|	S AH Z	|	S'*
+S'	|	Z AH Z	|	S&#809;'*
+N	|	N Y	|	N&#778;
+U	|	AO	|	U&#783;^
+V	|	F	|	V&#809;
+V	|	W	|	V&#840;
+W	|	V	|	W&#809;
+W	|	F	|	W&#840;
+X	|	HH	|	X&#778;
+E	|	AO	|	E&#783;^
