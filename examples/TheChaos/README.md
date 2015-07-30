@@ -60,8 +60,31 @@ This directory contains the poem "The Chaos" translated into a host of different
 * [TheChaos_ARP](TheChaos_ARP.txt)
   * Dih1rah0st kriy1cher0 ih0n kriy0ey1shah0n Stah1diy0ih0ng IH1ngglih0sh prow0nah2nsiy0ey1shah0n,
 
+## Title abbreviations
+* IPA1 – Compromise dialect-neutral English pronunciation using the International Phonetic Alphabet (IPA), as used in Wikipedia.
+* IPA2 – General American pronunciation using IPA in A Pronouncing Dictionary of American English (1944 ), John S. Kenyon, Thomas A. Knott. Springfield, Massachusetts: Merriam-Webster.
+* APA – Americanist phonetic notation, used primarily in linguistics literature in the U.S.
+* NOAD – New Oxford American Dictionary (2001, 2005, 2010). New York: Oxford University Press. (Diacritical transcription).
+* AHD – American Heritage Dictionary of the English Language (2000). Boston: Houghton-Mifflin. Also used by the Columbia Encyclopedia.
+* RHD – Random House Dictionary of the English Language (1966).
+* WBO – World Book Online (1998).
+* MECD – Microsoft Encarta College Dictionary.
+* DPL – Dictionary of Pronunciation, Abraham Lass and Betty Lass.
+* DPN – Dictionary of Pronunciation, Samuel Noory.
+* TBD - Thorndike Barnhart Dictionary.
+* NBC – NBC Handbook of Pronunciation.
+* MWCD – Merriam-Webster's Collegiate Dictionary.
+* COD – The Concise Oxford Dictionary (1964), 5th edition, E. McIntosh, ed. Oxford: OUP. (This notation was used up to the 7th edition; newer editions use the IPA.)
+* POD – The Pocket Oxford Dictionary (2006), 2nd edition, E. Jewell, Oxford: OUP.
+* Cham – The Chambers Dictionary (2003).
+* SD - Scholastic Dictionary.
+* AB – Arpabet, a commonly used computerized encoding of English pronunciation. It is used by the CMU Pronouncing Dictionary.
+* Dictcom – Dictionary.com offers both spelled pronunciation 
+* BBC – BBC Phonetic Respelling.
+* Wikipedia¹ – Wikipedia United States Dictionary transcription, a generic US dictionary-style respelling system.
+* Wikipedia² - Wikipedia Pronunciation Respelling Key, used in some Wikipedia articles to spell out the pronunciations of English words.
 
-# Made using:
+## Made using:
 * The poem [The Chaos](http://ncf.idallen.com/english.html)
 * python [nltk](http://www.nltk.org/)
 * [CMU dictionary](http://www.nltk.org/api/nltk.corpus.reader.html#module-nltk.corpus.reader.cmudict)
