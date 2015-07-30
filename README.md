@@ -13,7 +13,7 @@ Spelling reform would make the language easier to learn, raise literacy levels, 
 However now we have computers that can automatically translate between English and Phoenetic English which removes that barriers to adoption. English learners can learn Phonetic English faster, with better spoken English, and still translate thier essay to normal English.
 
 ## Why ResSpelling?
-It's specifically aimed at english, not all languages like IPA. It's easy for English speakers to pick up and looks proffessional. Unlike other proposals which look uncomftorbly like txt speak or pidgin English.
+It's specifically aimed at english, not all languages like IPA. It's easy for English speakers to pick up and looks proffessional. Unlike other proposals which look uncomftorbly like txt speak or pidgin English. For more see [here](http://www.linguism.co.uk/language/ipa-versus-respelling).
 
 ## Examples
 
