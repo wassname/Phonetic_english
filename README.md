@@ -22,20 +22,50 @@ Here is a famous poem showing the irregularity of English spelling. [The Chaos](
 ```
 Dearest creature in creation
 Studying English pronunciation,
-I will teach you in my verse
-Sounds like corpse, corps, horse and worse. 
+   I will teach you in my verse
+   Sounds like corpse, corps, horse and worse.
+
 I will keep you, Susy, busy,
 Make your head with heat grow dizzy;
-Tear in eye, your dress you'll tear;
-Queer, fair seer, hear my prayer. 
-Pray, console your loving poet,
-Make my coat look new, dear, sew it! 10
-Just compare heart, hear and heard,
-Dies and diet, lord and word.
-Sword and sward, retain and Britain
+   Tear in eye, your dress you'll tear;
+   Queer, fair seer, hear my prayer.
+
+Hiccough has the sound of sup...
+My advice is: GIVE IT UP!
 ...
 ```
 
-What does this look like in Phoenetic English?
+What does this look like in thisscheme (Wikipedia English Respelling)?
 
-TODO
+```
+Dirəst krichur in kriayshən
+Studiing Ingglish prohnunsiayshən,
+   Y wil tich yu in my vurs
+   Sowndz lyk kɔrps, kɔr, hɔrs ənd wurs.
+
+Y wil kip yu, Suzi, bizi,
+Mayk yɔr hed widh hit groh dizi;
+   Ter in y, yɔr dres yu'll ter;
+   Kwir, fer sir, hir my prer.
+   
+Hikəp haz dhə sownd uv sup...
+My advys iz: GIV IT UP!
+```
+
+While in IPA
+```
+Dɪrəst kritʃɜr ɪn krieɪʃən
+Stʌdiɪŋ ɪŋglɪʃ proʊnʌnsieɪʃən,
+   Aɪ wɪl titʃ ju ɪn maɪ vɜrs
+   Saʊndz laɪk kɔrps, kɔr, hɔrs ənd wɜrs.
+   
+
+Aɪ wɪl kip ju, Suzi, bɪzi,
+Meɪk jɔr hed wɪð hit groʊ dɪzi;
+   Ter ɪn aɪ, jɔr dres ju'll ter;
+   Kwɪr, fer sir, hir maɪ prer.
+
+Hɪkəp hæz ðə saʊnd ʌv sʌp...
+Maɪ ædvaɪs ɪz: GɪV ɪT ɅP!
+```
+
